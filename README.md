@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+
+Lending club is an online loan market platform, facilitating personal loans, business loans and loans for medical purposes. The objective of this case study is to identify the risky applicants who are likely to default and there by minimize the financial loss to the company by analysing the past data through Exploratory data analysis (EDA).
+
 
 
 ## Table of Contents
@@ -10,7 +12,6 @@
 
 
 ## General Information
-Lending club is an online loan market platform, facilitating personal loans, business loans and loans for medical purposes. The objective of this case study is to identify the risky applicants who are likely to default and there by minimize the financial loss to the company by analysing the past data through Exploratory data analysis (EDA).
 
 The case study helps you in developing a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers. When a consumer finance company receives a loan application, the company must decide for loan approval based on the applicant’s profile. Two types of risks are associated with the company's decision. 
 
@@ -28,40 +29,28 @@ c. Charged-Off:  Applicant has not paid the instalments in due time for a long p
 
 2. Loan rejected: The company had rejected the loan after evaluating the candidate profile. Since loan is rejected, there is no transactional history of those applicants and hence data is not available with company.
 
-
 Business Objectives:
 
 Lending Club facilitates low interest rate loan through a fast online interface. Lending loans to 'risky' applicants is the largest source of financial loss. The borrowers who default causes the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. The company wants to understand the driving factors behind loan default, i.e., the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment, and thus minimise the risk of losing money while lending to customers.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+1. People having good grade/credit score have less tendency to default their loans.  Grading system is working as expected.
+2. Loans having higher interest rate have more defaulters. Check the background of applicant thoroughly if interest rate is high.
+3. Extra scrutiny must be done for the applicants whose annual income is low, as tendency to default is high.
+4. When the loan is applied for small business purpose checking of applicant thoroughly as it has high tendency to default.
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+## Libraries Used
+- Numpy –version: 1.20.1
+- Pandas -version: 1.2.4
+- Matplotlib -version: 3.3.4
+- Seaborn -version: 0.11.1
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Harshulagarwal] and [@mikhil-varshney]
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## License
+This project is open source and available under the Apache-2.0 Licence.
+
