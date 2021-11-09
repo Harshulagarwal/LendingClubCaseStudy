@@ -48,9 +48,9 @@ Lending Club facilitates low interest rate loan through a fast online interface.
 
 ## Contact
 Created by:
-Harshul Agarwal ([LinkedIn](https://www.linkedin.com/in/harshul-agarwal-1b2313144/))
+* Harshul Agarwal ([LinkedIn](https://www.linkedin.com/in/harshul-agarwal-1b2313144/))
 
-Mikhil Varshney ([LinkedIn] (https://www.linkedin.com/in/mikhilvarshney/))
+* Mikhil Varshney([LinkedIn](https://www.linkedin.com/in/mikhilvarshney/))
 
 
 ## License
