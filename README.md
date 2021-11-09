@@ -8,7 +8,6 @@ Lending club is an online loan market platform, facilitating personal loans, bus
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -40,15 +39,15 @@ Lending Club facilitates low interest rate loan through a fast online interface.
 3. Extra scrutiny must be done for the applicants whose annual income is low, as tendency to default is high.
 4. When the loan is applied for small business purpose checking of applicant thoroughly as it has high tendency to default.
 
+
 ## Libraries Used
-- Numpy –version: 1.20.1
-- Pandas -version: 1.2.4
-- Matplotlib -version: 3.3.4
-- Seaborn -version: 0.11.1
+- Numpy – version: 1.20.1
+- Pandas - version: 1.2.4
+- Matplotlib - version: 3.3.4
+- Seaborn - version: 0.11.1
 
 ## Contact
-Created by [@Harshulagarwal] and [@mikhil-varshney]
-
+Created by @Harshulagarwal and @mikhil-varshney
 
 
 ## License
